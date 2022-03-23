@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!-- thong tin sinh vien -->
+
+<DanhSachSinhVien>
+
+    <SinhVien>
+
+        <Ten>Tran Van Tu</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">7</WebServices>
+
+            <LapTrinh HeSo="2">8</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+
+    <SinhVien>
+
+        <Ten>Hoang Anh Quang</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">5</WebServices>
+
+            <LapTrinh HeSo="2">5</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+
+    <SinhVien>
+
+        <Ten>Pham Anh Dung</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">9</WebServices>
+
+            <LapTrinh HeSo="2">9</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+
+    <SinhVien>
+
+        <Ten>Pham Anh Khoa</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">9</WebServices>
+
+            <LapTrinh HeSo="2">4</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+    
+
+        <SinhVien>
+
+        <Ten>Ngo Anh Huy</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">5</WebServices>
+
+            <LapTrinh HeSo="2">9</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+    
+
+        <SinhVien>
+
+        <Ten>Hoang Anh Gon</Ten>
+
+        <Tuoi>22</Tuoi>
+
+        <Diem>
+
+            <WebServices HeSo="1">10</WebServices>
+
+            <LapTrinh HeSo="2">9</LapTrinh>
+
+        </Diem>
+
+    </SinhVien>
+
+</DanhSachSinhVien>
