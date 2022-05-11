@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<SinhVien>
+  <sinhvien>
+    <id>1</id>
+    <name>Ph&#x1EA1;m Trung Anh D&#x169;ng</name>
+    <email>dung@gmail.com</email>
+    <password>123</password>
+    <scores>8</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>2</id>
+    <name>Ho&#xE0;ng Anh Quang</name>
+    <email>quang@gmail.com</email>
+    <password>123</password>
+    <scores>9</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>3</id>
+    <name>Tr&#x1EA7;n V&#x103;n T&#x1EE9;</name>
+    <email>tu@gmail.com</email>
+    <password>123</password>
+    <scores>10</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>4</id>
+    <name>Nguy&#x1EC5;n Qu&#x1ED1;c V&#x1B0;&#x1A1;ng</name>
+    <email>vuong@gmail.com</email>
+    <password>123456</password>
+    <scores>9</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>5</id>
+    <name>Nguy&#x1EC5;n Kh&#xE1;nh Linh</name>
+    <email>linh@gmail.com</email>
+    <password>123456</password>
+    <scores>8</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>6</id>
+    <name>&#x110;inh B&#xE1; Th&#xE1;i S&#x1A1;n</name>
+    <email>son@gmail.com</email>
+    <password>123123</password>
+    <scores>10</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>7</id>
+    <name>Nguy&#x1EC5;n Th&#x1ECB; Thuy Ph&#x1B0;&#x1A1;ng</name>
+    <email>phuong@gmail.com</email>
+    <password>123123</password>
+    <scores>10</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>8</id>
+    <name>Nguy&#x1EC5;n Tr&#x1ECD;ng Hi&#x1EBF;u </name>
+    <email>dalatcoder@gmail.com</email>
+    <password>123123</password>
+    <scores>10</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>9</id>
+    <name>Nguy&#x1EC5;n Th&#x1ECB; Qu&#x1EF3;nh Nga</name>
+    <email>nga@gmail.com</email>
+    <password>123123</password>
+    <scores>7</scores>
+  </sinhvien>
+  <sinhvien>
+    <id>10</id>
+    <name>Ho&#xE0;ng Ng&#x1ECD;c Anh</name>
+    <email>anh@gmail.com</email>
+    <password>213345</password>
+    <scores>7</scores>
+  </sinhvien>
+</SinhVien>
